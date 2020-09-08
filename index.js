@@ -28,7 +28,8 @@ inquirer
         ]
         }).then(function(answers){
 
-            console.log(answers.adding)
+
+        
         }); 
 
     } else if (answers.action === "View") {
