@@ -41,7 +41,7 @@ inquirer
         choices:[
         "Department",
         "Role",
-        "Employee?"
+        "Employee"
         ]
         }).then(function(answers){
 
